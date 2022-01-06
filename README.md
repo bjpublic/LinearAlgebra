@@ -66,3 +66,5 @@ https://cafe.naver.com/aifromstat/28
 <br><br><br>
 ## 오탈자 정오표
 https://cafe.naver.com/aifromstat/28
+
+![Uploading 상세이미지_알고리즘구현으로배우는선형대수with파이썬.jpg…]()
