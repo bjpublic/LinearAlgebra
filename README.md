@@ -49,6 +49,8 @@ https://cafe.naver.com/aifromstat/28
 · 前) NHN IT 보안실
 · 前) 크래프톤(구 블루홀) 데이터 분석실
 
+저자 운영 카페 https://cafe.naver.com/aifromstat
+
 <br><br><br>
 ## 출판사 리뷰
 <h4>추상적이고 어렵게만 느껴지는 선형대수,</h4>
@@ -58,8 +60,7 @@ https://cafe.naver.com/aifromstat/28
 
 <br><br><br>
 ## 관련도서
-· 선형대수와 통계학으로 배우는 머신러닝 with 파이썬
-- [도서 보러가기](http://www.yes24.com/Product/Goods/97032765)
+- [선형대수와 통계학으로 배우는 머신러닝 with 파이썬](http://www.yes24.com/Product/Goods/97032765)
 
 <br><br><br>
 ## 오탈자 정오표
