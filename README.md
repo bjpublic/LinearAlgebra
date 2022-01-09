@@ -65,7 +65,7 @@ https://cafe.naver.com/aifromstat
 
 <br><br><br>
 ## 오탈자 정오표
-https://cafe.naver.com/aifromstat/28
+https://cafe.naver.com/aifromstat
 
 <br><br><br>
 ![상세이미지_알고리즘구현으로배우는선형대수with파이썬](https://user-images.githubusercontent.com/21074282/148310702-08861746-1f3b-40a3-97df-45b95da888a2.jpg)
