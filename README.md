@@ -8,7 +8,7 @@
 
 <br><br><br>
 ## 오탈자 정오표
-https://cafe.naver.com/aifromstat/28
+https://cafe.naver.com/aifromstat
 
 <br><br><br>
 ## 온라인 서점 구매 링크
