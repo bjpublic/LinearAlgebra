@@ -664,7 +664,7 @@ def qr_gram(A):
     Q = []
     R = []
 
-    for i in range(0,n):
+    for i in range(0,p):
         if i == 0:
             u = At[i]
             norm_u = norm(u)
@@ -692,9 +692,9 @@ def qr_gram(A):
 
     Q = transpose(V)
 
-    for i in range(0,n):
+    for i in range(0,p):
         r = []
-        for j in range(0,n):
+        for j in range(0,p):
             if i > j:
                 r.append(0)
             else:
